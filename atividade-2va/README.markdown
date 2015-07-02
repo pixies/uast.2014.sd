@@ -4,8 +4,8 @@
 Escolha e monte o tema da sua pesquisa da seguinte forma:
 
 Exemplo:
-	Área Geral + TEMA + uma Revisão Sistemática
-	Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. 
+	"Área Geral + TEMA + uma Revisão Sistemática"
+	'''Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. '''
 
 
 A atividade seguirá as segintes caracteristicas.
