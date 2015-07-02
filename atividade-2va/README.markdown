@@ -1,21 +1,18 @@
-#Atividade:#
-##Faça uma revisão sistemática utilizando 5 autores, sobre os temas a baixo.##
+#Atividade:
+##Faça uma revisão sistemática utilizando 5 autores, sobre os temas a baixo.
 
 Escolha e monte o tema da sua pesquisa da seguinte forma:
 
-##Exemplo:##
+##Exemplo:
 	* Área Geral + TEMA + uma Revisão Sistemática
 	** Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. 
 
-
-##A atividade seguirá as segintes caracteristicas.##
-
-##Utilize os slides para servir de base sobre o que pesquisar:## 
+##Utilize os slides para servir de base sobre o que pesquisar:
 	1. SD - 7 - Comunicação entre Processos - Revisao.ppt
 	2. SD - 8 - Atomicidade e Concorrencia.pdf
 	3. SD - 8 - Tolerancia a Falhas.pdf
 
-##Área Geral:##
+##Área Geral:
 	1. Comunicação entre processos;
 	2. Tolerância a Falhas;
 	3. Atomicidade e Concorrência;
