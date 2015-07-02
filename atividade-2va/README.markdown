@@ -3,24 +3,24 @@
 
 Escolha e monte o tema da sua pesquisa da seguinte forma:
 
-Exemplo:
-	"Área Geral + TEMA + uma Revisão Sistemática"
-	'''Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. '''
+##Exemplo:##
+	* Área Geral + TEMA + uma Revisão Sistemática
+	** Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. 
 
 
-A atividade seguirá as segintes caracteristicas.
+##A atividade seguirá as segintes caracteristicas.##
 
 Utilize os slides para servir de base sobre o que pesquisar: 
-	SD - 7 - Comunicação entre Processos - Revisao.ppt
-	SD - 8 - Atomicidade e Concorrencia.pdf
-	SD - 8 - Tolerancia a Falhas.pdf
+	* SD - 7 - Comunicação entre Processos - Revisao.ppt
+	* SD - 8 - Atomicidade e Concorrencia.pdf
+	* SD - 8 - Tolerancia a Falhas.pdf
 
-Área Geral:
-1. Comunicação entre processos;
-2. Tolerância a Falhas;
-3. Atomicidade e Concorrência;
+##Área Geral:##
+	1. Comunicação entre processos;
+	2. Tolerância a Falhas;
+	3. Atomicidade e Concorrência;
 
-sub-area:
+##sub-area:
 
 	1. Cluster de Alto desempenho
 		1.1 HPC (High Performance Computing) (TEMAS)
