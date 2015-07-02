@@ -4,8 +4,8 @@
 Escolha e monte o tema da sua pesquisa da seguinte forma:
 
 ##Exemplo:
-	* Área Geral + TEMA + uma Revisão Sistemática
-	** Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. 
+	1 (Modelo) Área Geral + TEMA + uma Revisão Sistemática
+	2 (Exemplo) Tolerância a Falha em (Sistemas ou Clusters) de balanceamento de Redes, uma Revisão Sistemática. 
 
 ##Utilize os slides para servir de base sobre o que pesquisar:
 	1. SD - 7 - Comunicação entre Processos - Revisao.ppt
