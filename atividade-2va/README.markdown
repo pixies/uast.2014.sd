@@ -10,10 +10,10 @@ Escolha e monte o tema da sua pesquisa da seguinte forma:
 
 ##A atividade seguirá as segintes caracteristicas.##
 
-Utilize os slides para servir de base sobre o que pesquisar: 
-	* SD - 7 - Comunicação entre Processos - Revisao.ppt
-	* SD - 8 - Atomicidade e Concorrencia.pdf
-	* SD - 8 - Tolerancia a Falhas.pdf
+##Utilize os slides para servir de base sobre o que pesquisar:## 
+	1. SD - 7 - Comunicação entre Processos - Revisao.ppt
+	2. SD - 8 - Atomicidade e Concorrencia.pdf
+	3. SD - 8 - Tolerancia a Falhas.pdf
 
 ##Área Geral:##
 	1. Comunicação entre processos;
